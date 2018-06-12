@@ -1,4 +1,4 @@
-# 100 pandas puzzles
+# 100 pandas puzzles (source: https://github.com/ajcr/100-pandas-puzzles)
 
 ### [Puzzles notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb)
 ### [Solutions notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles-with-solutions.ipynb)
